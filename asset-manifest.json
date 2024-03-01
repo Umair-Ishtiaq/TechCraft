@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/techcraft/static/css/main.6d7a3652.css",
+    "main.js": "/techcraft/static/js/main.624e30fd.js",
+    "static/js/787.92fc10d1.chunk.js": "/techcraft/static/js/787.92fc10d1.chunk.js",
+    "static/media/raffay.jpg": "/techcraft/static/media/raffay.daa29504e0aaa8c615c5.jpg",
+    "static/media/bgg.png": "/techcraft/static/media/bgg.86a96a71a31004f1c372.png",
+    "static/media/umair.jpg": "/techcraft/static/media/umair.2b2be3ba88316278e28c.jpg",
+    "static/media/arham.jpg": "/techcraft/static/media/arham.a08fa0b7bc5b917f654a.jpg",
+    "static/media/sana.jpg": "/techcraft/static/media/sana.3214b7a6722fed21bdc5.jpg",
+    "static/media/sec2img.png": "/techcraft/static/media/sec2img.531475eeec71c1dbc5f3.png",
+    "static/media/sec5img.png": "/techcraft/static/media/sec5img.4964e0fa7771502683cb.png",
+    "static/media/amna.jpg": "/techcraft/static/media/amna.73120b2a0d2d10d1740c.jpg",
+    "static/media/bg1.png": "/techcraft/static/media/bg1.c7631358a429bb07e4c0.png",
+    "static/media/Iqra.jpg": "/techcraft/static/media/Iqra.c787cbeec14de1fcebe8.jpg",
+    "static/media/logo.png": "/techcraft/static/media/logo.081d324ded73a882857b.png",
+    "index.html": "/techcraft/index.html",
+    "main.6d7a3652.css.map": "/techcraft/static/css/main.6d7a3652.css.map",
+    "main.624e30fd.js.map": "/techcraft/static/js/main.624e30fd.js.map",
+    "787.92fc10d1.chunk.js.map": "/techcraft/static/js/787.92fc10d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d7a3652.css",
+    "static/js/main.624e30fd.js"
+  ]
+}
